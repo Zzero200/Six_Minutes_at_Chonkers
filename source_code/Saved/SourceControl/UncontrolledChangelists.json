@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UE Projects/YouAreNigToMyGer/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"E:/UE Projects/YouAreNigToMyGer/Content/Security/L_Security_Office.umap",
+				"E:/UE Projects/YouAreNigToMyGer/Content/Security/Assets/RT_Camera.uasset",
+				"E:/UE Projects/YouAreNigToMyGer/Content/Security/Assets/M_Camera.uasset",
+				"E:/UE Projects/YouAreNigToMyGer/Content/Security/Inputs/IMC_Camera.uasset",
+				"E:/UE Projects/YouAreNigToMyGer/Content/Security/UMG_Room.uasset",
+				"E:/UE Projects/YouAreNigToMyGer/Content/Security/UMG_Tablet.uasset",
+				"E:/UE Projects/YouAreNigToMyGer/Content/Security/A_Camera.uasset",
+				"E:/UE Projects/YouAreNigToMyGer/Content/Security/A_Tablet.uasset",
+				"E:/UE Projects/YouAreNigToMyGer/Content/Security/FPS_SecurityGuard.uasset",
+				"E:/UE Projects/YouAreNigToMyGer/Content/Security/Inputs/IA_ShowTablet.uasset",
+				"E:/UE Projects/YouAreNigToMyGer/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"E:/UE Projects/SixMinutesAtChonkers/Content/Security/BP_ThirdPersonGuard.uasset",
+				"E:/UE Projects/SixMinutesAtChonkers/Content/Security/ActionsWidget.uasset",
+				"E:/UE Projects/SixMinutesAtChonkers/Content/Security/LoseWidget.uasset",
+				"E:/UE Projects/SixMinutesAtChonkers/Content/Security/WinWidget1.uasset",
+				"E:/UE Projects/SixMinutesAtChonkers/Content/Security/WinWidget.uasset"
+			]
+		}
+	]
+}
